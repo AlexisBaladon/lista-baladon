@@ -1,0 +1,7 @@
+const MAIN_COLOR = '#E47CA6'
+const BACKGROUND_COLOR = '#FFF6FA'
+
+export {
+    MAIN_COLOR,
+    BACKGROUND_COLOR,
+}
